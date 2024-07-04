@@ -1,0 +1,15 @@
+/home/user/Documents/Design Pattern/Estrutura/Adapter/bin/Debug/net8.0/Adapter
+/home/user/Documents/Design Pattern/Estrutura/Adapter/bin/Debug/net8.0/Adapter.deps.json
+/home/user/Documents/Design Pattern/Estrutura/Adapter/bin/Debug/net8.0/Adapter.runtimeconfig.json
+/home/user/Documents/Design Pattern/Estrutura/Adapter/bin/Debug/net8.0/Adapter.dll
+/home/user/Documents/Design Pattern/Estrutura/Adapter/bin/Debug/net8.0/Adapter.pdb
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfoInputs.cache
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/Adapter.AssemblyInfo.cs
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/Adapter.csproj.CoreCompileInputs.cache
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/Adapter.sourcelink.json
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/Adapter.dll
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/refint/Adapter.dll
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/Adapter.pdb
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/Adapter.genruntimeconfig.cache
+/home/user/Documents/Design Pattern/Estrutura/Adapter/obj/Debug/net8.0/ref/Adapter.dll

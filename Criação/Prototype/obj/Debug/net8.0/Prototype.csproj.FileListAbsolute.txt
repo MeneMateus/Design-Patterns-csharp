@@ -1,0 +1,14 @@
+/home/user/Documents/Design Pattern/Prototype/bin/Debug/net8.0/Prototype
+/home/user/Documents/Design Pattern/Prototype/bin/Debug/net8.0/Prototype.deps.json
+/home/user/Documents/Design Pattern/Prototype/bin/Debug/net8.0/Prototype.runtimeconfig.json
+/home/user/Documents/Design Pattern/Prototype/bin/Debug/net8.0/Prototype.dll
+/home/user/Documents/Design Pattern/Prototype/bin/Debug/net8.0/Prototype.pdb
+/home/user/Documents/Design Pattern/Prototype/obj/Debug/net8.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Design Pattern/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfoInputs.cache
+/home/user/Documents/Design Pattern/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfo.cs
+/home/user/Documents/Design Pattern/Prototype/obj/Debug/net8.0/Prototype.csproj.CoreCompileInputs.cache
+/home/user/Documents/Design Pattern/Prototype/obj/Debug/net8.0/Prototype.dll
+/home/user/Documents/Design Pattern/Prototype/obj/Debug/net8.0/refint/Prototype.dll
+/home/user/Documents/Design Pattern/Prototype/obj/Debug/net8.0/Prototype.pdb
+/home/user/Documents/Design Pattern/Prototype/obj/Debug/net8.0/Prototype.genruntimeconfig.cache
+/home/user/Documents/Design Pattern/Prototype/obj/Debug/net8.0/ref/Prototype.dll

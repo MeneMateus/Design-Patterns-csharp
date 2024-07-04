@@ -1,0 +1,14 @@
+/home/user/Documents/AbstractFactory/bin/Debug/net8.0/AbstractFactory
+/home/user/Documents/AbstractFactory/bin/Debug/net8.0/AbstractFactory.deps.json
+/home/user/Documents/AbstractFactory/bin/Debug/net8.0/AbstractFactory.runtimeconfig.json
+/home/user/Documents/AbstractFactory/bin/Debug/net8.0/AbstractFactory.dll
+/home/user/Documents/AbstractFactory/bin/Debug/net8.0/AbstractFactory.pdb
+/home/user/Documents/AbstractFactory/obj/Debug/net8.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/AbstractFactory/obj/Debug/net8.0/AbstractFactory.AssemblyInfoInputs.cache
+/home/user/Documents/AbstractFactory/obj/Debug/net8.0/AbstractFactory.AssemblyInfo.cs
+/home/user/Documents/AbstractFactory/obj/Debug/net8.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/home/user/Documents/AbstractFactory/obj/Debug/net8.0/AbstractFactory.dll
+/home/user/Documents/AbstractFactory/obj/Debug/net8.0/refint/AbstractFactory.dll
+/home/user/Documents/AbstractFactory/obj/Debug/net8.0/AbstractFactory.pdb
+/home/user/Documents/AbstractFactory/obj/Debug/net8.0/AbstractFactory.genruntimeconfig.cache
+/home/user/Documents/AbstractFactory/obj/Debug/net8.0/ref/AbstractFactory.dll
